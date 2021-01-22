@@ -1,2 +1,3 @@
 # ModularArithmetic
-Modular arithmetic in C++. Fraction Farey, Multi-module modular system
+Modular arithmetic in C++. 
+Realization of Fraction Farey, Multi-module modular system.
